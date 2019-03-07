@@ -54,7 +54,7 @@ public class RevLinkedListIterative {
 	
 	public static void main(String[] args) {
 		RevLinkedListIterative list = new RevLinkedListIterative();
-		list.head = new Node(75);
+		list.head = new Node(108);
 		list.head.next=new Node(32);
 		list.head.next.next = new Node(39);
 		list.head.next.next.next = new Node(94);
